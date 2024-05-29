@@ -5,9 +5,10 @@ The primary findings from this investigation suggests that attractive greenspace
 
 Future work using more rigorous methodology may be needed to verify the role that tree height/diameter plays in creating attractive greenspaces, which could inform urban planning.
 
-A dashboard summarizing the findings is also provided in the screenshots below, with interactivity in three out of the four charts (bottom left bar chart is not interactive).
 
 # Main dashboard
+A dashboard summarizing the findings is also provided in the screenshots below, with interactivity in three out of the four charts (bottom left bar chart is not interactive).
+
 ![Main Dashboard](screenshots/main_dashboard.png)
 
 # Example of main dashboard with filters
